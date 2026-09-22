@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Cavidan 👋
 
-<!--
-**javidanagha/javidanagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity professional focused on building practical skills through
+hands-on labs, security research, and real-world security scenarios.
 
-Here are some ideas to get you started:
+### 🛡️ Cybersecurity
+- Red team & Offensive security
+- Blue Team & SOC
+- Network security
+- Web security
+- Detection engineering
+- Security automation
+- Incident response
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical interests
+- Python
+- Linux
+- Networking
+- SIEM / SOAR
+- Wazuh
+- Threat detection
+- Security tooling
+
+### 📚 Currently learning
+- Cloud security
+- Python
+- Automation
+
+> Learning security by building it.
