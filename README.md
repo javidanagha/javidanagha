@@ -2,28 +2,24 @@
 
 # Hi, I'm Cavidan 👋
 
-### Junior Cybersecurity Professional · Blue Team / SOC Focus · Baku, Azerbaijan
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Built+a+home+SOC+lab+%E2%80%94+Wazuh+%2B+TheHive+%2B+Shuffle;Automating+security+with+Python+%26+Telegram+bots;eJPT+%26+Fortinet+NSE3+Certified;Blue+Team+%3E+Red+Team)](https://git.io/typing-svg)
+### Cybersecurity professional
 
 </div>
 
 ---
 
-### 🧭 About Me
+### 🧭 About me
 
-I'm a junior cybersecurity professional based in Baku, building hands-on skills through home labs, CTFs, and real detection-engineering work rather than certificates alone. My background covers offensive fundamentals (penetration testing, exploitation), but I've found my direction leans strongly toward **Blue Team / SOC work** — SIEM, SOAR, detection engineering, and incident response.
+I'm a cybersecurity professional based in Baku, building hands-on skills through home labs, CTFs, and real detection-engineering work rather than certificates alone. My background covers offensive fundamentals, but I've found my direction leans strongly toward **Blue Team / SOC work.**
 
-- 🖥️ Built a full home SOC lab (Wazuh + TheHive + Cortex + Shuffle) and shipped two Telegram-based tools: Netwatch and Termiphone
-- 📚 Studied cloud security fundamentals and Python automation
-- 🎯 Practiced offense-side skills too — Metasploit exploitation, credential attacks, pivoting — because good defenders think like attackers
-- 🏅 eJPT certified (2026) · Fortinet NSE3 certified
-- 💬 Ask me about Wazuh, Splunk, SOAR playbook design, or PortSwigger web security labs
+- 🖥️ Built a full home SOC lab and shipped two network based authomation tools: Netwatch and Termiphone.
+- 🗡️ Red team background: completed a red team training track, exploited real CVEs with Metasploit, cracked hashes with Hashcat/John and sprayed credentials with CrackMapExec, pivoted through internal networks via SOCKS proxies, and solved HackTheBox machines plus extensive PortSwigger web security labs.
+- 🛡️ Blue team background: built a full SOC stack, wrote custom detection rules and SPL queries, designed SOAR playbooks for privilege escalation, SQL injection and ransomware scenarios, deployed and hardened Active Directory with Sysmon telemetry, and practiced blue team challanges on LetsDefend and BTLO.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/cavidan-a%C4%9Fa-154651391/) · [aghacavidan@gmail.com](mailto:aghacavidan@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker" />
@@ -42,7 +38,7 @@ I'm a junior cybersecurity professional based in Baku, building hands-on skills 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured projects
 
 <table>
 <tr>
