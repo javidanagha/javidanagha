@@ -25,5 +25,3 @@ Security tooling
 Cloud security
 Python
 Automation
-
-> Learning security by building it.
