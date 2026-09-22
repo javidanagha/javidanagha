@@ -69,5 +69,3 @@ Remote PTY session over Telegram — run Linux terminal commands from a phone, s
 
 ![eJPT](https://img.shields.io/badge/eJPT-INE_Security_2026-2E9EF7?style=for-the-badge)
 ![NSE3](https://img.shields.io/badge/Fortinet_NSE3-Certified-EE3124?style=for-the-badge)
-
-Training at **Xploit Academy** (2025–2026)
