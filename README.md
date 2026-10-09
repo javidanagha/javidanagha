@@ -4,7 +4,7 @@
 
 </div>
 
-I'm a junior cybersecurity professional, focused on Blue Team / SOC work. Detection engineering, SIEM, and incident response.
+I'm a junior cybersecurity specialist, focused on Blue Team / SOC work. Detection engineering, SIEM, and incident response.
 
 Welcome to my GitHub, here you'll find my security labs and projects.
 
